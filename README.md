@@ -1,5 +1,4 @@
 # SNS
-- Twitter: [@cptHausdorff](https://twitter.com/cptHausdorff)
 - その他: [AllMyLinks](https://allmylinks.com/thmprov)
 
 # 勉強中の数学
